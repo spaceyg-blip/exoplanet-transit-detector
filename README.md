@@ -9,8 +9,6 @@ This project demonstrates:
 - Python scientific programming  
 - Research-quality software structure  
 
----
-
 
 
 ##  What is BLS?
@@ -18,12 +16,7 @@ This project demonstrates:
 **Box Least Squares (BLS)** is a period-search algorithm designed to detect  
 periodic dips in brightness caused by exoplanets crossing in front of their star.
 
----
 
-
-
-
----
 
 ##  Usage (Python Script)
 
@@ -35,11 +28,7 @@ This will:
 - Plot periodogram  
 - Plot folded transit curve  
 
----
 
-
-
----
 
 ##  Included Sample Data
 
@@ -55,15 +44,9 @@ The simulated dataset contains:
 
 Ideal for testing the BLS detector.
 
----
 
 
 
----
-
-##  Author  
-Grace (spacey-g)
----
 
 ##  Example Outputs
 
